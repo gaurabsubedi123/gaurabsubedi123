@@ -65,6 +65,6 @@ in video with the help of feature detection also some research with camera calib
 <br> Expected Graduation: December 2023
 
 **Tribhuvan University**
-<br>*Bachelor in Computer Engineering, KEC (Tribhuvan University) (2015-2019)*
+<br>*Bachelor in Computer Engineering, ACEM (Tribhuvan University) (2015-2019)*
 
 <a href = "./projects.md">Projects</a>
