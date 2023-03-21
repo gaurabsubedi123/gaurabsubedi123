@@ -56,7 +56,8 @@ in video with the help of feature detection also some research with camera calib
 **Project Assosication For Computer and Electronice (PACE) 2018-2019**
 <br> *Treasurer*
 <br> *Computer Club, Advanced College of Engineering and Management, Kathmandu, Nepal*
-<br>**Graduate Research Assistant - Present**
+
+**Graduate Research Assistant - Present**
 <br> *Applied Artificial Intelligence Lab, University of South Dakota
 ## Education
 **University of South Dakota**
