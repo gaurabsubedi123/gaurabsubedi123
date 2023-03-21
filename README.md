@@ -23,7 +23,7 @@ I started my carrer doing internship in computer vision tasks in one of a presti
 
 Later I joined there as a Fulltime, where I worked on static clickable poster based projects, 2D poster injection in recorded videos and some research on in-game advertisement After working for two years, I decided to continue my studies and joined the graduate program at University of South Dakota.
 
-[![Gaurab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurabsubedi123)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Gaurab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurabsubedi123)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Technical Skills
 - <strong>Languages and Scripts</strong>: Python, C/C++, C#
@@ -67,4 +67,4 @@ in video with the help of feature detection also some research with camera calib
 **Tribhuvan University**
 <br>*Bachelor in Computer Engineering, ACEM (Tribhuvan University) (2015-2019)*
 
-<a href = "./projects.md">Projects</a>
+<!-- <a href = "./projects.md">Projects</a>  -->
