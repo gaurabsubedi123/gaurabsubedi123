@@ -17,21 +17,22 @@ Here are some ideas to get you started:
  -->
  Hi everyone!
 
-I am Gaurab and my passion in the field of Artificial Intelligence has made me pick Artificial Intelligence Engineering as a career. I have been working with machine learning, deep learning, computer vision and data engineering for the last 2 years. Currently, I am a Graduate Student.
+I am Gaurab and my passion in the field of Artificial Intelligence and Data Science and worked in this field. I have been working with machine learning, deep learning, computer vision and data engineering for the last 2 years. Currently, I am a Graduate Student.
 
 I started my carrer doing internship in computer vision tasks in one of a prestigious fintech company in Nepal called Selcouth Technology Pvt. LTD (ASMI). At ASMI, I mostly tangled with the homography, pattern matching of the surfaces in videoframe including feature point detection in planar surface.
 
 Later I joined there as a Fulltime, where I worked on static clickable poster based projects, 2D poster injection in recorded videos and some research on in-game advertisement After working for two years, I decided to continue my studies and joined the graduate program at University of South Dakota.
 
+For now I am acively looking for a role in data engineering, data analyst and database administrator 
+
 <!-- [![Gaurab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurabsubedi123)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Technical Skills
-- <strong>Languages and Scripts</strong>: Python, C/C++, C#
+- <strong>Languages and Scripts</strong>: Python, C/C++,, C#
 - <strong>Frameworks and Libraries</strong>: Pandas, Scikit-learn, Numpy, Seaborn, Plotly, Scipy, Keras(with Tensorflow), Pytorch, Darknet (For YOLO), OpenCV
 - <strong>IDE</strong>: Jupyter Notebook, Pycharm, VSCode, Unity
 - <strong>Database</strong>: MySql, MongoDB
 - <strong>VCS</strong>: Git, Github
-- <strong>Containerization, and orchestration</strong>: Docker, Docker-Compose
 - <strong>Collaboration</strong>: JIRA, Trello, Slack
 - <strong>Methodology</strong>: Scrum
 - <strong>Big Data Technology</strong>: Apache Spark, HDFS, PySpark (SQL, MLLib)
