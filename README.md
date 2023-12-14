@@ -58,12 +58,11 @@ in video with the help of feature detection also some research with camera calib
 <br> *Treasurer*
 <br> *Computer Club, Advanced College of Engineering and Management, Kathmandu, Nepal*
 
-**Graduate Research Assistant - Present**
+**Graduate Research Assistant - 2022-2023**
 <br> *Applied Artificial Intelligence Lab, University of South Dakota
 ## Education
 **University of South Dakota**
-<br>*Masters in Computer Science, AI Specialization (2022 Fall)*
-<br> Expected Graduation: December 2023
+<br>*Masters in Computer Science, AI Specialization (Aug 2022 - Dec 2023)*
 
 **Tribhuvan University**
 <br>*Bachelor in Computer Engineering, ACEM (Tribhuvan University) (2015-2019)*
