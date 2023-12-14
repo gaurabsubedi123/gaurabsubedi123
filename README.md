@@ -23,7 +23,7 @@ I started my carrer doing internship in computer vision tasks in one of a presti
 
 Later I joined there as a Fulltime, where I worked on static clickable poster based projects, 2D poster injection in recorded videos and some research on in-game advertisement After working for two years, I decided to continue my studies and joined the graduate program at University of South Dakota.
 
-For now I am acively looking for a role in data engineering, data analyst and database administrator 
+For now I am actively looking for a role in data engineering, data analyst and database administrator 
 
 <!-- [![Gaurab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurabsubedi123)](https://github.com/anuraghazra/github-readme-stats) -->
 
