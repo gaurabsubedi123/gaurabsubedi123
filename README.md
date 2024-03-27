@@ -57,13 +57,15 @@ I also worked on static clickable poster based projects, 2D poster injection in 
   
 ## Research Experience
 
+### Graduate Teaching and Research Assistant Aug 2022 - Dec 2023
+
 *Applied Artificial Intelligence Lab (2AI Lab),Department of Computer Science, University of South Dakota*
 - Taught “CSC 586: Datamining” to a class of 55 undergrad and graduate students.
 - Implemented multimodal learning techniques for chest x-ray report generation, utilizing IU datasets where only frontal images of chest Xray and its corresponding reports was taken in account.
 - Developed an encoder and decoder-based multimodal framework, enabling the generation of accurate textual reports from chest x-ray images and associated text descriptions which yielded a 12% boost in BLEU score than the existing method.
 - Tech: Pandas, Tensorflow, Scikit-learn, Pytorch, NLTK, NLG, Plotly, Git, Weights, and Biases.
 
-### Graduate Teaching and Research Assistant Aug 2022 - Dec 2023
+
 
 ## Organizations
 **Project Assosication For Computer and Electronice (PACE) 2018-2019**
