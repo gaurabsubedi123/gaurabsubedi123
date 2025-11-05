@@ -1,85 +1,134 @@
 # Gaurab Subedi
 
-<!-- 
-**gaurabsubedi123/gaurabsubedi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi everyone!
 
-Here are some ideas to get you started:
+I am Gaurab, a PhD student in Computer Science at the University of Nevada, Las Vegas, with a passion for Artificial Intelligence, Machine Learning, and Data Science. I specialize in computer vision, natural language processing, and medical imaging applications. Currently, I'm conducting research on Alzheimer's disease biomarker identification and bilingual speech analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I completed my Master of Science in Computer Science from the University of South Dakota with a perfect 4.0 GPA, where I focused on multimodal learning for automated medical report generation. Before pursuing my graduate studies, I worked for three years as an AI Engineer and Data Engineer at Selcouth Technologies Pvt. Ltd (ASMI venture) in Nepal, where I developed deep learning models for fashion detection, recommendation systems, and augmented reality applications.
 
- -->
- Hi everyone!
+## Education
+**University of Nevada, Las Vegas**
+<br>*Doctor of Philosophy (PhD) in Computer Science (August 2024 - Present)*
 
-I am Gaurab and my passion in the field of Artificial Intelligence and Data Science and worked in this field. I have been working with machine learning, deep learning, computer vision and data engineering for the last 3 years. Currently, I Graduated from University of South Dakota with Masters of Science in Computer Science.
+**University of South Dakota**
+<br>*Master of Science in Computer Science, AI Specialization (August 2022 - December 2023) GPA: 4.00*
+<br>Related Coursework: Computer Vision, Pattern Recognition and Machine Learning, AI in Medical Imaging
 
-I started my carrer doing internship in data engiineering tasks in one of a prestigious fintech company in Nepal called Selcouth Technology Pvt. LTD (ASMI). Afterwards I also was promoted as AI Engineer. At ASMI, I mostly tangled with the homography, pattern matching of the surfaces in videoframe including feature point detection in planar surface including big data technologies.
+**Tribhuvan University**
+<br>*Bachelor in Computer Engineering, ACEM (2015-2019) Percentage: 73.77%*
 
-I also worked on static clickable poster based projects, 2D poster injection in recorded videos and some research on in-game advertisement After working for three years, I decided to continue my studies and joined the graduate program at University of South Dakota. 
+## Research Experience
 
-<!-- [![Gaurab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurabsubedi123)](https://github.com/anuraghazra/github-readme-stats) -->
+### Graduate Research Assistant (Fall 2024 - Present)
+*Fonseca Research Group, University of Nevada, Las Vegas*
+- Conducting research on Alzheimer's disease biomarker identification and analysis as part of the Biomarker Observatory project
+- Developing computational pipelines for processing and analyzing clinical data for Alzheimer's disease progression
+- Collaborating with interdisciplinary team on machine learning approaches for early detection and monitoring of neurodegenerative diseases
 
-## Technical Skills
-- <strong>Languages and Scripts</strong>: Python, C/C++,, C#
-- <strong>Frameworks and Libraries</strong>: Pandas, Scikit-learn, Numpy, Seaborn, Plotly, Scipy, Keras(with Tensorflow), Pytorch, Darknet (For YOLO), OpenCV
-- <strong>IDE</strong>: Jupyter Notebook, Pycharm, VSCode, Unity
-- <strong>Database</strong>: MySql, MongoDB
-- <strong>VCS</strong>: Git, Github
-- <strong>Collaboration</strong>: JIRA, Trello, Slack
-- <strong>Methodology</strong>: Scrum
-- <strong>Big Data Technology</strong>: Apache Spark, HDFS, PySpark (SQL, MLLib)
-- <strong>Visualization</strong>: Microsoft PowerBi, Python Libraries (Matplotlib, Seaborn, Plotly, Dash)
-- <strong>Operating System</strong>: Linux, Windows
+### Research Volunteer (Fall 2025 - Present)
+*Surrain Lab, University of Nevada, Las Vegas*
+- Contributing to bilingual speech research project analyzing English-Spanish daylong recordings of 2-year-old children with their families
+- Performing speech transcription and annotation of naturalistic bilingual language data
+- Analyzing transcribed speech data using various NLP models and comparing evaluation metrics for bilingual language development assessment
+- Supporting research on early childhood bilingual language acquisition and code-switching patterns
+
+### Graduate Research Assistant (January 2023 - December 2023)
+*Applied Artificial Intelligence Lab (2AI Lab), University of South Dakota*
+- Investigated multimodal learning techniques for automated chest X-ray report generation using the IU X-ray dataset
+- Designed and implemented an encoder-decoder based multimodal deep learning framework integrating visual and textual modalities for medical report generation
+- Achieved a 12% improvement in BLEU score compared to existing state-of-the-art methods, demonstrating enhanced coherence and clinical accuracy in generated reports
+- Conducted extensive experiments on model architectures, training strategies, and evaluation metrics for medical image captioning tasks
+
+## Teaching Experience
+
+### Graduate Teaching Assistant
+*University of Nevada, Las Vegas, Department of Computer Science*
+
+**CS 442/642: Cloud Computing (Fall 2025)**
+- Assisting with undergraduate and graduate level cloud computing course covering distributed systems, containerization, and cloud service architectures
+
+**CS 202: Computer Science II (Spring 2025, Summer 2025)**
+- Instructed fundamentals of Object Oriented Programming, data structures and algorithms including linked lists, stacks, and queues
+- Conducted live coding sessions and provided individualized mentoring to students on object-oriented programming concepts
+
+**CS 326: Programming Languages (Fall 2024)**
+- Supported instruction in programming language theory, syntax, semantics, and paradigms including functional and logic programming
+- Graded assignments and assisted students with compiler design concepts and language implementation
+
+*University of South Dakota, Department of Computer Science*
+
+**CSC 586: Data Mining (Fall 2022)**
+- Instructed data mining course to 55 undergraduate and graduate students, covering classification, clustering, association rules, and pattern recognition techniques
+- Developed course materials, designed programming assignments, and conducted weekly office hours
 
 ## Professional Experience
 
-### AI Engineer (Full-time) May 2021 - May 2022
+### AI Engineer - Computer Vision/Machine Learning (May 2020 - May 2022)
+*Selcouth Technologies Pvt. Ltd (ASMI Venture)*
+- Developed and deployed deep learning models for fashion item detection and classification using YOLOv4 architecture, achieving 89% accuracy on 30 clothing categories
+- Designed a content-based recommendation system integrating CNN feature extraction for visual similarity matching in e-commerce applications, improving recommendation performance by 20%
+- Implemented keypoint detection algorithms (SIFT, SURF) for augmented reality applications in video processing, achieving 30% performance improvement and 10% faster processing speed
+- Researched in-game advertisement placement using Unity engine and C# with ML library tools
 
-*Selcouth Technologies Pvt. Ltd (ASMI venture)*
-- Static Clickable Poster based Projects: Developed a video-based outfit detection system, named "Static Clickable Poster," utilizing YOLO version 4 where the datasets are extracted from different clothing sites and annotated images using labelimg across 30 different classes of male and female dresses. Increased the model accuracy from 60% to 89% increasing the datasets to 1 million.
-- Core team member for recommendation system with content-based filtering and CNN for visual features extraction for an E-commerce site within the "Static Clickable Poster '' project, enhancing user experience by suggesting similar outfits based on the sophisticated outfit detection model and annotated dataset. Also, increased the performance of the recommendation system by 20% integrating the trained model in the recommendation system.
-- 2D poster injection in recorded videos: Basically, it deals with injecting 2D images onto the background of the video. Achieved 30% performance gains and increased processing speed by 10% in the "2D Poster Injection in Recorded Videos" project by applying key point detection using the available libraries of OpenCV key point detector algorithm like SIFT and SURF extensively, In video frames, and implementing an efficient process to find optimal image placement locations. Most of the part of project uses Opencv. Detecting key points, features, finding the appropriate place for placing the image in video with the help of feature detection also some research with camera calibration was also made.
-- Research on in-game Advertisement: Here the main idea was to place poster (2D image) advertisement in gaming environment. For this we used Unity engine and C# including the ML Library tools present in the unity game engine itself.
-
-### Data Engineer (Full-time) Feb 2019 - April 2021
-
+### Data Engineer (February 2019 - May 2020)
 *Selcouth Technologies Pvt. Ltd*
-- Wrote complex SQL scripts and PL/SQL packages, extracted data from various source tables of data warehouse and worked on Snowflake environment to remove redundancy and load real time data from various data sources into HDFS using Kafka. Also, installed, configured, and monitored Apache Airflow cluster and used AWS S3 to store large amounts of data in identical/similar repository.
-- Built key business metrics, Visualizations, dashboards, reports with Tableau.
-- Involved in building the ETL architecture and Source to Target mapping to load data into Data warehouse.
-- Developed Spark scripts by using Python shell commands as per the requirement. Also, wrote Python for regular expression (RegEx) project in Hadoop/Hive environment for big data resources.
-  
-## Research Experience
+- Wrote complex SQL scripts and PL/SQL packages, extracted data from various source tables of data warehouse
+- Worked on Snowflake environment to remove redundancy and load real-time data from various data sources into HDFS using Kafka
+- Installed, configured, and monitored Apache Airflow cluster and used AWS S3 to store large amounts of data
+- Built key business metrics, visualizations, dashboards, and reports with Tableau
+- Developed Spark scripts using Python shell commands and wrote Python for regular expression (RegEx) projects in Hadoop/Hive environment
 
-### Graduate Teaching and Research Assistant Aug 2022 - Dec 2023
+## Research Projects
 
-*Applied Artificial Intelligence Lab (2AI Lab),Department of Computer Science, University of South Dakota*
-- Taught “CSC 586: Datamining” to a class of 55 undergrad and graduate students.
-- Implemented multimodal learning techniques for chest x-ray report generation, utilizing IU datasets where only frontal images of chest Xray and its corresponding reports was taken in account.
-- Developed an encoder and decoder-based multimodal framework, enabling the generation of accurate textual reports from chest x-ray images and associated text descriptions which yielded a 12% boost in BLEU score than the existing method.
-- Tech: Pandas, Tensorflow, Scikit-learn, Pytorch, NLTK, NLG, Plotly, Git, Weights, and Biases.
+**Multimodal Medical Report Generation (2023)**
+- Developed deep learning models for automatic radiology report generation from chest X-ray images
+- Implemented attention mechanisms and transformer-based architectures for improved clinical text generation
 
+**Nepali Language Sentiment Analysis (2021)**
+- Constructed a sentiment analysis system for low-resource Nepali language using LSTM-RNN architecture
+- Curated and manually annotated a dataset of 3,000 Nepali sentences from diverse sources
+- Deployed model as a web application using Django framework for real-time sentiment analysis of YouTube comments
 
+**Computer Vision for Traffic Management (2020)**
+- Designed an adaptive traffic light control system using Haar Cascade classifiers for vehicle detection and counting
+- Integrated computer vision algorithms with embedded systems (Arduino) for real-time traffic flow optimization
 
-## Organizations
-**Project Assosication For Computer and Electronice (PACE) 2018-2019**
-<br> *Treasurer*
-<br> *Computer Club, Advanced College of Engineering and Management, Kathmandu, Nepal*
+## Publications
+- Subedi, G., et al. "Nepali Language Sentiment Analysis using LSTM-RNN." Available at: http://bit.ly/46Ynxa6
 
-**Graduate Teaching and Research Assistant 2022-2023**
-<br> Applied Artificial Intelligence Lab, University of South Dakota
-## Education
-**University of South Dakota**
-<br>*Masters in Computer Science, AI Specialization (Aug 2022 - Dec 2023) GPA: 4.00*
-<br> Related Coursework: Computer Vision, Pattern recognition and machine learning, AI in Medical Imaging
+## Technical Skills
+- **Programming Languages**: Python, C/C++, SQL, C#
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn
+- **Computer Vision**: OpenCV, YOLO, Object Detection, Image Processing
+- **Natural Language Processing**: NLTK, Transformers, NLG
+- **Data Science**: Pandas, NumPy, SciPy, Data Mining, Statistical Analysis
+- **Visualization**: Matplotlib, Seaborn, Plotly, Dash, Microsoft PowerBI, Tableau
+- **Big Data Technology**: Apache Spark, HDFS, PySpark (SQL, MLLib), Kafka
+- **Database**: MySQL, MongoDB, Snowflake
+- **Tools & Technologies**: Git, GitHub, Weights & Biases, AWS, Arduino, JIRA, Trello, Slack
+- **IDE**: Jupyter Notebook, PyCharm, VSCode, Unity
+- **Operating System**: Linux, Windows
 
-**Tribhuvan University**
-<br>*Bachelor in Computer Engineering, ACEM (Tribhuvan University) (2015-2019) Percentage: 73.77%*
+## Leadership & Service
 
-<!-- <a href = "./projects.md">Projects</a>  -->
+### Student Representative, Differential Fee Committee (Fall 2024 - Present)
+*Department of Computer Science, University of Nevada, Las Vegas*
+- Serve as computer science department representative on School of Engineering differential fee committee
+- Advocate for student interests in budget allocation and resource planning decisions
+
+### President, Nepalese Student Association (Fall 2025 - Present)
+*University of Nevada, Las Vegas*
+- Lead and coordinate activities for Nepalese student community at UNLV
+- Organize cultural events, academic workshops, and community engagement programs
+- Facilitate networking and mentorship opportunities for international students
+
+### Secretary, Nepalese Student Association (Fall 2024, Spring 2024, Summer 2024)
+*University of Nevada, Las Vegas*
+
+### Project Coordinator, Project Association for Computer and Electronics (2018-2019)
+*Advanced College of Engineering and Management*
+- Organized technical competitions including circuit design, coding challenges, and hackathons
+- Coordinated intercollege technological exhibitions promoting student engagement in engineering disciplines
+
+## Contact
+📧 gaurab.subedi@unlv.edu | 📱 605-910-1428 | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/gaurabsubedi123)
