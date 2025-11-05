@@ -11,11 +11,11 @@ I completed my Master of Science in Computer Science from the University of Sout
 <br>*Doctor of Philosophy (PhD) in Computer Science (August 2024 - Present)*
 
 **University of South Dakota**
-<br>*Master of Science in Computer Science, AI Specialization (August 2022 - December 2023) GPA: 4.00*
+<br>*Master of Science in Computer Science, AI Specialization (August 2022 - December 2023)*
 <br>Related Coursework: Computer Vision, Pattern Recognition and Machine Learning, AI in Medical Imaging
 
 **Tribhuvan University**
-<br>*Bachelor in Computer Engineering, ACEM (2015-2019) Percentage: 73.77%*
+<br>*Bachelor in Computer Engineering, ACEM (2015-2019)*
 
 ## Research Experience
 
@@ -94,7 +94,7 @@ I completed my Master of Science in Computer Science from the University of Sout
 - Integrated computer vision algorithms with embedded systems (Arduino) for real-time traffic flow optimization
 
 ## Publications
-- Subedi, G., et al. "Nepali Language Sentiment Analysis using LSTM-RNN." Available at: http://bit.ly/46Ynxa6
+- "Nepali Language Sentiment Analysis using LSTM-RNN." Available at: http://bit.ly/46Ynxa6
 
 ## Technical Skills
 - **Programming Languages**: Python, C/C++, SQL, C#
@@ -102,9 +102,9 @@ I completed my Master of Science in Computer Science from the University of Sout
 - **Computer Vision**: OpenCV, YOLO, Object Detection, Image Processing
 - **Natural Language Processing**: NLTK, Transformers, NLG
 - **Data Science**: Pandas, NumPy, SciPy, Data Mining, Statistical Analysis
-- **Visualization**: Matplotlib, Seaborn, Plotly, Dash, Microsoft PowerBI, Tableau
-- **Big Data Technology**: Apache Spark, HDFS, PySpark (SQL, MLLib), Kafka
-- **Database**: MySQL, MongoDB, Snowflake
+- **Visualization**: Matplotlib, Seaborn, Plotly
+- **Big Data Technology**: Apache Spark, HDFS, PySpark (SQL, MLLib)
+- **Database**: MySQL, MongoDB, PostgreSQL
 - **Tools & Technologies**: Git, GitHub, Weights & Biases, AWS, Arduino, JIRA, Trello, Slack
 - **IDE**: Jupyter Notebook, PyCharm, VSCode, Unity
 - **Operating System**: Linux, Windows
@@ -131,4 +131,4 @@ I completed my Master of Science in Computer Science from the University of Sout
 - Coordinated intercollege technological exhibitions promoting student engagement in engineering disciplines
 
 ## Contact
-📧 gaurab.subedi@unlv.edu | 📱 605-910-1428 | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/gaurabsubedi123)
+📧 gaurab.subedi@unlv.edu | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/gaurabsubedi123)
