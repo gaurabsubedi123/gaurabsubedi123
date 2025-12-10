@@ -71,12 +71,12 @@ I completed my Master of Science in Computer Science from the University of Sout
 - Guided students through hands-on AI projects integrating hardware components including Raspberry Pi and various sensors
 - Provided technical mentorship on embedded systems programming and IoT application development
 
-**Summer AI Workshop (July 2024)**
+**Summer AI Workshop (July 2025)**
 - Conducted one-month AI workshop for 20 visiting undergraduate students from multiple Korean universities
 - Delivered lectures and practical sessions on machine learning fundamentals and AI applications
 - Supervised student projects and provided individualized guidance on AI implementation
 
-### AI Presentation to Business Professionals (2024)
+### AI Presentation to Business Professionals (December 2025)
 *University of Nevada, Las Vegas*
 - Delivered presentation on artificial intelligence and its business applications to 10 business professionals from Canada
 - Discussed AI's importance in modern business operations, potential use cases, and implementation strategies
@@ -132,12 +132,12 @@ I completed my Master of Science in Computer Science from the University of Sout
 
 ## Leadership & Service
 
-### Student Representative, Differential Fee Committee (2024 - 2026)
+### Student Representative, Differential Fee Committee (2025 - 2026)
 *Department of Computer Science, University of Nevada, Las Vegas*
 - Serve as computer science department representative on School of Engineering differential fee committee
 - Advocate for student interests in budget allocation and resource planning decisions
 
-### President, Nepalese Student Association (Fall 2025 - Present)
+### President, Nepalese Student Association (2025 - 2026)
 *University of Nevada, Las Vegas*
 - Lead and coordinate activities for Nepalese student community at UNLV
 - Organize cultural events, academic workshops, and community engagement programs
