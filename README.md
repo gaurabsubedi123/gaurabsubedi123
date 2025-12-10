@@ -61,6 +61,27 @@ I completed my Master of Science in Computer Science from the University of Sout
 - Instructed data mining course to 55 undergraduate and graduate students, covering classification, clustering, association rules, and pattern recognition techniques
 - Developed course materials, designed programming assignments, and conducted weekly office hours
 
+## Workshop Facilitation & Training
+
+### AI/IoT Workshop Facilitator
+*Engineering International Programs (EIP), University of Nevada, Las Vegas*
+
+**Winter AI/IoT Workshop (January 2025)**
+- Facilitated intensive one-month workshop on AI and IoT technologies for 40 visiting undergraduate students from Korean universities
+- Guided students through hands-on AI projects integrating hardware components including Raspberry Pi and various sensors
+- Provided technical mentorship on embedded systems programming and IoT application development
+
+**Summer AI Workshop (July 2024)**
+- Conducted one-month AI workshop for 20 visiting undergraduate students from multiple Korean universities
+- Delivered lectures and practical sessions on machine learning fundamentals and AI applications
+- Supervised student projects and provided individualized guidance on AI implementation
+
+### AI Presentation to Business Professionals (2024)
+*University of Nevada, Las Vegas*
+- Delivered presentation on artificial intelligence and its business applications to 10 business professionals from Canada
+- Discussed AI's importance in modern business operations, potential use cases, and implementation strategies
+- Facilitated discussion on AI adoption challenges and opportunities in various industries
+
 ## Professional Experience
 
 ### AI Engineer - Computer Vision/Machine Learning (May 2020 - May 2022)
@@ -105,13 +126,13 @@ I completed my Master of Science in Computer Science from the University of Sout
 - **Visualization**: Matplotlib, Seaborn, Plotly
 - **Big Data Technology**: Apache Spark, HDFS, PySpark (SQL, MLLib)
 - **Database**: MySQL, MongoDB, PostgreSQL
-- **Tools & Technologies**: Git, GitHub, Weights & Biases, AWS, Arduino, JIRA, Trello, Slack
+- **Tools & Technologies**: Git, GitHub, Weights & Biases, AWS, Arduino, Raspberry Pi, JIRA, Trello, Slack
 - **IDE**: Jupyter Notebook, PyCharm, VSCode, Unity
 - **Operating System**: Linux, Windows
 
 ## Leadership & Service
 
-### Student Representative, Differential Fee Committee (Fall 2024 - Present)
+### Student Representative, Differential Fee Committee (2024 - 2026)
 *Department of Computer Science, University of Nevada, Las Vegas*
 - Serve as computer science department representative on School of Engineering differential fee committee
 - Advocate for student interests in budget allocation and resource planning decisions
@@ -131,4 +152,4 @@ I completed my Master of Science in Computer Science from the University of Sout
 - Coordinated intercollege technological exhibitions promoting student engagement in engineering disciplines
 
 ## Contact
-📧 gaurab.subedi@unlv.edu | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/gaurabsubedi123)
+📧 gaurab.subedi@unlv.edu | [LinkedIn](https://www.linkedin.com/in/gaurab-subedi-624688184/) | [GitHub](https://github.com/gaurabsubedi123)
