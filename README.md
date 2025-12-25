@@ -11,7 +11,7 @@ I completed my Master of Science in Computer Science from the University of Sout
 <br>*Doctor of Philosophy (PhD) in Computer Science (August 2024 - Present)*
 
 **University of South Dakota**
-<br>*Master of Science in Computer Science, AI Specialization (August 2022 - December 2023)*
+<br>*Master of Science in Computer and Information Sciences (August 2022 - December 2023)*
 <br>Related Coursework: Computer Vision, Pattern Recognition and Machine Learning, AI in Medical Imaging
 
 **Tribhuvan University**
